@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 
 with open("c:/users/kanishk/test.log", 'r') as fd1:
